@@ -1,0 +1,18 @@
+public class Dowhile{
+    public static void main(String args[])
+    {
+        int i=0;
+        do
+        {
+            System.out.println("C# Language");
+            i++;
+        } while(i<3);
+    }
+}
+OUTPUT:
+C:\Users\divi\.jdks\openjdk-21.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.2\lib\idea_rt.jar=58745:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "J:\4th sem\java programming\Forloop\out\production\Forloop" While
+C# Language
+C# Language
+C# Language
+
+Process finished with exit code 0
